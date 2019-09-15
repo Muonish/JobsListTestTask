@@ -1,0 +1,17 @@
+
+.DS_Store
+.Trashes
+
+DerivedData/
+
+build/
+
+vendor/
+.bundle/bin
+
+Pods/
+
+fastlane/README.md
+fastlane/report.xml
+
+contents.xcworkspacedata
